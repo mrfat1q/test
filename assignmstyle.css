@@ -1,0 +1,107 @@
+/*/*/*/*@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@200&display=swap');*/
+/*h1{
+	color: rgb(30,150,60);
+	text-align: center;
+	background-color: rgb(255,0,0);
+	font-size: 50px;*/
+/*}
+#value1{
+	height:/* 100px;
+	width: 100px;
+	background-color: grey;
+}*/
+/*#value1{
+	background-color: red;
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+.value2{
+	background-color: red;
+	width: 250px;
+	height: 250px;
+}
+
+*{
+	font-size: 1em;
+	color: green;
+}*/
+a{
+	text-decoration: none;
+
+}
+a:link{
+	color: red;
+}
+
+a:visted{
+	color: yellow;
+}
+
+a:hover{
+	color: green;
+}
+
+a:active{
+	color: blue;
+}
+
+li{
+	list-style-type: none;
+	display: inline-block;
+}
+h1{
+	text-decoration: overline;
+	text-transform: capitalize;
+	letter-spacing: 10px;
+	text-shadow: red 2px 2px 20px;
+	font-family: 'Lobster', cursive;
+}
+p{
+	color: skyblue;
+	text-indent: 50px;
+	line-height: 50px;
+	word-spacing: 20px;
+	/*white-space: nowrap;*/
+
+}
+/**/
+div{
+	width: 50px;
+	border: 5px solid red;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.mother{
+	width: 80%;
+	height: 250px;
+	background-color: green;
+	opacity: 0.9;
+	/*visibility: hidden;*/
+}
+
+.mother h1{
+	display: none;
+}
+
+.mother:hover h1{
+	display: block;
+}
+
+.mother2{
+	width: 80%;
+	height: 250px;
+	background-color: red;
+	opacity: 0.9;
+	/*display: none;*/
+}
+
+.extra{
+	color: blue;
+}
+
+*/
+/**/ 
+/**/
